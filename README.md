@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 I am a computer science student at the moment and have experience in working in software developer for atleast 5 years 🤔. Interested in doing workout and playing many types of games. Fascinated about space and astronomy.
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=PanicP.PanicP&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=panicp.panicp&left_color=green&right_color=red)
