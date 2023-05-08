@@ -21,4 +21,5 @@ I am a computer science student at the moment and have experience in working in 
 - Fast-paced musics addict
 - Workout desciple
 
+<a href="https://info.flagcounter.com/TwF8"><img src="https://s11.flagcounter.com/count2/TwF8/bg_121212/txt_FFFCFC/border_FFFFFF/columns_8/maxflags_20/viewers_0/labels_1/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=panicp.panicp&left_color=green&right_color=red)
